@@ -1,0 +1,4 @@
+{
+  "name": "VisionVoice",
+  "description": "Upload an image to generate a description using Gemini Vision, then hear it spoken aloud using Gemini TTS."
+}
