@@ -1,0 +1,7 @@
+{
+  "name": "Latent_Bloom",
+  "description": "A crop lifecycle visualization tool for farmers in Nepal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
